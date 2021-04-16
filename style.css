@@ -1,0 +1,28 @@
+body {
+    background:rgb(95, 158, 160,0.5);
+}
+
+.container  {
+    height: 500px;
+    width: 500px;
+}
+
+h5{
+    font-family: 'Zilla Slab Highlight', cursive;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.fas {
+    cursor: pointer;
+    color: rgb(95, 158, 160);
+}
+
+.slider-link {
+    text-decoration: none;
+    margin-left: 200px;
+}
+
+p {
+    text-align: center;
+}
